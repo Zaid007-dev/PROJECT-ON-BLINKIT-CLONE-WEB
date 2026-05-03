@@ -55,7 +55,7 @@ The main goal of this project is to replicate a real-world grocery delivery plat
 
 🚀 This project is live and deployed on **Vercel**  
 
-🔗 Live Link: https://your-vercel-link.vercel.app  
+🔗 Live Link: https://zaid-blinkit.vercel.app 
 
 ---
 
