@@ -6,7 +6,7 @@
 
 ### ⚡ Modern Front-End Blinkit Inspired Clone  
 
-### 🚀 Live Demo - https://your-vercel-link.vercel.app
+### 🚀 Live Demo - https://zaid-blinkit.vercel.app
 
 ---
 
